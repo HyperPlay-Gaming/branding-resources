@@ -2,7 +2,7 @@
 Follow these guidelines when promoting HyperPlay in marketing communications, including advertising, articles, websites, and printed promotions.
 
 <h1>Wordmark Logo</h1>
-![wordmark-logo-example](imgs/wordmark-logo-example.png)
+[wordmark-logo-example](imgs/wordmark-logo-example.png)
 
 <h1>Logo</h1>
 ![logo](imgs/logo.png)
