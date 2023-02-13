@@ -2,15 +2,18 @@
 Follow these guidelines when promoting HyperPlay in marketing communications, including advertising, articles, websites, and printed promotions.
 
 <h1>Wordmark Logo</h1>
-[wordmark-logo-example](imgs/wordmark-logo-example.png)
+
+![wordmark-logo-example](/imgs/wordmark-logo-example.png)
 
 <h1>Logo</h1>
+
 ![logo](imgs/logo.png)
 
 
 <h1>Clear Space</h1>
 
 //image
+
 <h4>Wordmark</h4><p>Keep a clear space of 'X' aaround our logo at all times to maintain its visual impact in every composition. X = the x-height of the wordmark.</p>
 
 
