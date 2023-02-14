@@ -7,21 +7,29 @@ Follow these guidelines when promoting HyperPlay in marketing communications, in
 
 <h1>Logo</h1>
 
-![logo](imgs/logo.png)
+![logo](imgs/logo-example.png)
 
 
 <h1>Clear Space</h1>
 
-//image
+<h2>Wordmark</h2><p>Keep a clear space of 'X' aaround our logo at all times to maintain its visual impact in every composition. X = the x-height of the wordmark.</p>
 
-<h4>Wordmark</h4><p>Keep a clear space of 'X' aaround our logo at all times to maintain its visual impact in every composition. X = the x-height of the wordmark.</p>
+![logo](imgs/space-wordmark.png)
 
+<h2>Logo</h2><p>Keep a clear space of 1/2 X around the logo at all times, to maintain its visual impact in every composition.
 
-//image
-<h4>Logo</h4><p>Keep a clear space of 1/2 X around the logo at all times, to maintain its visual impact in every composition.
+![logo](imgs/space-logo.png)
 
 
 <h1>Partner Logo<h1>
+
+<h2>Wordmark + Parner</h2>
+
+![partner](imgs/wordmark-partner.png)
+
+<h2>Logo + Partner</h2>
+
+![partner](imgs/logo-partner.png)
 
 
 <h1>Best Practices</h1>
