@@ -21,15 +21,15 @@ Follow these guidelines when promoting HyperPlay in marketing communications, in
 ![logo](imgs/space-logo.png)
 
 
-<h1>Partner Logo<h1>
-
-<h2>Wordmark + Parner</h2>
+<h1>HyperPlay + Partners<h1>
 
 ![partner](imgs/wordmark-partner.png)
 
-<h2>Logo + Partner</h2>
-
 ![partner](imgs/logo-partner.png)
 
-
-<h1>Best Practices</h1>
+<br>
+<h1>Things to Avoid</h1>
+  
+![partner](imgs/avoid-wordmark.png)  
+  
+![partner](imgs/avoid-logo.png)    
